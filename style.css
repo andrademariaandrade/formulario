@@ -1,0 +1,33 @@
+body{
+    font-family: arial sams-serie;
+    }
+form{
+    max-width: 600px;
+    margin: o auto;
+    }
+label{
+    display: block;
+    margin-bottom: spx;
+    font-weight: bold;
+    }
+textarea{
+     width:100;
+     padding:8px;
+     margin-bottom:10px;
+     border:1px solid #ccc;
+     border-radius:4px;
+     box-sizing: border-box;
+     }
+input[type="submit"]{
+     background-color: #4caf50;
+     color: white;
+     padding: 10px 20px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     font-size: 16px;
+     }
+input[type="submit"]:hover{
+     background: color #45a049;
+     ;
+     }
